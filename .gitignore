@@ -1,0 +1,26 @@
+# Ignore binaries
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.idea
+*.vs
+
+# Ignore intermediate and build files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.useros
+*.pdb
+*.log
+*.vs/
+.vscode/
+
+# Ignore MacOS specific files
+.DS_Store
